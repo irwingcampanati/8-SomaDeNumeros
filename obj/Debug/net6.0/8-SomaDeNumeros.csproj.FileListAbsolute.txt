@@ -1,0 +1,15 @@
+C:\Users\irwin\OneDrive\Documentos\GitHub\8-SomaDeNumeros\bin\Debug\net6.0\8-SomaDeNumeros.exe
+C:\Users\irwin\OneDrive\Documentos\GitHub\8-SomaDeNumeros\bin\Debug\net6.0\8-SomaDeNumeros.deps.json
+C:\Users\irwin\OneDrive\Documentos\GitHub\8-SomaDeNumeros\bin\Debug\net6.0\8-SomaDeNumeros.runtimeconfig.json
+C:\Users\irwin\OneDrive\Documentos\GitHub\8-SomaDeNumeros\bin\Debug\net6.0\8-SomaDeNumeros.dll
+C:\Users\irwin\OneDrive\Documentos\GitHub\8-SomaDeNumeros\bin\Debug\net6.0\8-SomaDeNumeros.pdb
+C:\Users\irwin\OneDrive\Documentos\GitHub\8-SomaDeNumeros\obj\Debug\net6.0\8-SomaDeNumeros.csproj.AssemblyReference.cache
+C:\Users\irwin\OneDrive\Documentos\GitHub\8-SomaDeNumeros\obj\Debug\net6.0\8-SomaDeNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irwin\OneDrive\Documentos\GitHub\8-SomaDeNumeros\obj\Debug\net6.0\8-SomaDeNumeros.AssemblyInfoInputs.cache
+C:\Users\irwin\OneDrive\Documentos\GitHub\8-SomaDeNumeros\obj\Debug\net6.0\8-SomaDeNumeros.AssemblyInfo.cs
+C:\Users\irwin\OneDrive\Documentos\GitHub\8-SomaDeNumeros\obj\Debug\net6.0\8-SomaDeNumeros.csproj.CoreCompileInputs.cache
+C:\Users\irwin\OneDrive\Documentos\GitHub\8-SomaDeNumeros\obj\Debug\net6.0\8-SomaDeNumeros.dll
+C:\Users\irwin\OneDrive\Documentos\GitHub\8-SomaDeNumeros\obj\Debug\net6.0\refint\8-SomaDeNumeros.dll
+C:\Users\irwin\OneDrive\Documentos\GitHub\8-SomaDeNumeros\obj\Debug\net6.0\8-SomaDeNumeros.pdb
+C:\Users\irwin\OneDrive\Documentos\GitHub\8-SomaDeNumeros\obj\Debug\net6.0\8-SomaDeNumeros.genruntimeconfig.cache
+C:\Users\irwin\OneDrive\Documentos\GitHub\8-SomaDeNumeros\obj\Debug\net6.0\ref\8-SomaDeNumeros.dll
